@@ -4,4 +4,4 @@ description: "say hello with Github Actions"
 
 runs: 
   using: "node12"
-  main: "main.js"
+  main: "bread.js"
